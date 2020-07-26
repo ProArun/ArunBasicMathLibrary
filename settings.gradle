@@ -1,0 +1,3 @@
+include ':basiccalculation'
+include ':app'
+rootProject.name = "ArunBasicMathLibrary"
